@@ -25,6 +25,9 @@ Telegram RoBot to Share any telegram files and get the shareable link.
 
 👉 Media group
 
+### Deploy Now:
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ShadowKing9/MovieAddaStorage)
+
 ## Telegram Support:
 
 [![Channel](https://img.shields.io/badge/TG-Channel-30302f?style=flat&logo=telegram)](https://t.me/ShadowsArena)
